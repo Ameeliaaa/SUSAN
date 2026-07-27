@@ -49,15 +49,15 @@ Land cover mapping; Circumpolar cities; Benchmark dataset; High-resolution image
 
 If you find SUSAN or the 1.5-modality framework useful in your research, please cite:
 
-Sun, Y., Yu, A., Dai, C., Su, Y., Li, M., Quan, Y., Liu Y. and Zhong Y. 2026. Mapping land cover in circumpolar cities across seasons and continents: A sub-meter 1.5-modality benchmark with relative depth. _ISPRS Journal of Photogrammetry and Remote Sensing_, under review.
+Sun, Y., Yu, A., Dai, C., Su, Y., Li, M., Quan, Y., Liu Y. and Zhong Y. 2026. Mapping land cover in circumpolar cities across seasons and continents: A sub-meter 1.5-modality benchmark with relative depth. _IEEE Transcations on Geoscience and Remote Sensing_, under review.
 
 You can also use the following BibTeX entry:
 
 ```bibtex
-@article{susan_1p5modality_isprs2026,
+@article{susan_1p5modality_TGRS2026,
   title   = {Mapping Land Cover in Circumpolar Cities Across Seasons and Continents: A Sub-Meter 1.5-Modality Benchmark with Relative Depth},
   author  = {Yongqi Sun, Anzhu Yu, Chenguang Dai, Yu Su, Meilin Li, Yujun Quan, Yinhe Liu and Yanfei Zhong},
-  journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+  journal = {IEEE Transcations on Geoscience and Remote Sensing},
   year    = {2026},
   note    = {under review}
 }
@@ -70,4 +70,4 @@ You can also use the following BibTeX entry:
 For questions about the dataset or code, please contact:
 
 - Yongqi Sun: `sunyq2002@163.com`  
-- Chenguang Dai (corresponding author): `cgdai2008@163.com`
+- Anzhu Yu (corresponding author): `anzhu_yu@126.com`
