@@ -2,7 +2,9 @@
 # Mapping Land Cover in Circumpolar Cities Across Seasons and Continents: A Sub-Meter 1.5-Modality Benchmark with Relative Depth
 
 Yongqi Sun, Anzhu Yu, Chenguang Dai, Yu Su, Meilin Li, Yujun Quan, Yinhe Liu and Yanfei Zhong
+
 Information Engineering University, Zhengzhou, 450001, China
+
 Wuhan University, Wuhan 430079
 
 _Submitted to IEEE Transcations on Geoscience and Remote Sensing_
